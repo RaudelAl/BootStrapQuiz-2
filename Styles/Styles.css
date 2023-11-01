@@ -1,0 +1,28 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.purple{
+    background-color: rgba(107, 102, 224, 1);
+}
+.red{
+    background-color: rgba(175, 85, 85, 1);
+}
+.green{
+    background-color: rgba(122, 244, 112, 1);
+}
+.blue{
+    background-color: rgba(74, 230, 218, 1);
+}
+.imgh{
+    height: 100px;
+}
+
+.back{
+    background-color: rgba(226, 208, 208, 1);
+}
